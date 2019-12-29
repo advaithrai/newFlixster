@@ -17,15 +17,11 @@ Android application that calls a movie db API to display a list of current movie
 ### App Walkthough GIF
 
 
-<img src="https://github.com/advaithrai/Flixster_second_part/blob/master/flixster%20pt%202.gif?raw=true" width=250><br>
+<img src="https://github.com/advaithrai/newFlixster/blob/master/newflixster.gif?raw=true" width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
-
-- Tried to make the youtube video player fullscreen when in landscape mode, but the program crashed
-- Also had difficulty figuring out how to make the text overview in the main activity stop at the end of the layout to make the app look cleaner
--Attempted adding shared element transitions, but didn't know where to put intent code
+-Working on making trailer videos fullscreen immediately upon clicking the movie poster when in landscape mode
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing

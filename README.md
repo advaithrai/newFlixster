@@ -2,7 +2,7 @@
 
 ### Description
 
-Android application that calls a movie db API to display a list of current movies in theatres. The application haas the following functionalities:
+Android application that calls a movie db API to display a list of current movies in theatres. The application has the following functionalities:
 
 
 
